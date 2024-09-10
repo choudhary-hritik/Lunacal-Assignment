@@ -1,0 +1,8 @@
+p{
+    font-family: "Plus Jakarta Sans", sans-serif;
+}
+.shadow-addBtn {
+    --tw-shadow: 0 3.26px 3.26px #ffffff26 inset, 0 0 48.91px #ffffff0d inset, 9px 10px 7.1px #0006, -.5px -.5px 6.9px #ffffff40;
+    --tw-shadow-colored: inset 0 3.26px 3.26px var(--tw-shadow-color), inset 0 0 48.91px var(--tw-shadow-color), 9px 10px 7.1px var(--tw-shadow-color), -.5px -.5px 6.9px var(--tw-shadow-color);
+    box-shadow: var(--tw-ring-offset-shadow, 0 0 #0000), var(--tw-ring-shadow, 0 0 #0000), var(--tw-shadow);
+}
